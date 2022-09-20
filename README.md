@@ -1,27 +1,43 @@
-# FichaRPG
+# Ficha RPG
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+Ficha de personagem no sistema Dungeons & Dragons 5ª edição.
 
-## Development server
+## 🚀 Começando
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-## Code scaffolding
+### 📋 Pré-requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* NPM
 
-## Build
+### 🔧 Instalação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+# clona repositório
+git clone https://github.com/carlosjeff/Ficha-RPG.git
 
-## Running end-to-end tests
+# instalar dependências 
+npm install
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# executar o projeto
+npm run start
 
-## Further help
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [Angular](https://angular.io/) - Framework JavaScript
+
+## ✒️ Autor
+
+* **Carlos Jefferson Braga Alves** - [LinkedIn ](https://www.linkedin.com/in/carlosjeff/)
+
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/carlosjeff/Ficha-RPG/blob/main/LICENSE) para detalhes.
