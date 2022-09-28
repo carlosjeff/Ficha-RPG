@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+
+@import '../src/app/shared/css/reset.scss';
+@import '../src/app/shared/css/color.scss';
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+
+:root{
+
+
+  margin: 1em 10em;
+}
+
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
